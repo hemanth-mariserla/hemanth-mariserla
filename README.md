@@ -1,59 +1,68 @@
-# Hi there 👋, I'm Mariserla Hemanth Kumar  
+<h1 align="center">Hi 👋, I'm Mariserla Hemanth Kumar</h1>
+<h3 align="center">🚀 Developer | Mechanical Engineer | AI/ML Enthusiast</h3>
 
-🎓 **B.Tech 3rd Year Student** – Mechanical Engineering (Specialization in Artificial Intelligence & Process Automation) at Koneru Lakshmaiah Education Foundation, Guntur.  
-💻 **Aspiring Software Developer & Mechanical Engineer** – Passionate about AI/ML, Cloud Computing, and Mechanical Design.  
-📍 From Vizianagaram, Andhra Pradesh, India.  
-
----
-
-## 🌟 About Me  
-- 🎯 Goal-oriented and careful in my work style  
-- 💡 Skilled at working effectively under high-pressure situations  
-- ⚙️ Hands-on experience in both **Mechanical Engineering projects** and **AI/ML development**  
-- 🚀 Dream of becoming a **Film Writer & Director** alongside my engineering career  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MariserlaHemanthKumar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/MariserlaHemanthKumar?tab=followers">
+    <img src="https://img.shields.io/github/followers/MariserlaHemanthKumar?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technical Skills  
-- **Programming**: Python (Intermediate), C (Advanced), Java (Basic)  
-- **Machine Learning**: KMeans, Hierarchical Clustering, AWS Glue, Vertex AI  
-- **CAD/Design**: AutoCAD, Fusion 360, CATIA  
-- **Cloud**: Google Cloud, AWS (Learning Cloud-based AI/ML)  
+### 💡 About Me  
+I’m a **B.Tech student** specializing in **Mechanical Engineering + AI/ML**, blending the world of hardware and software.  
+I’m passionate about **building impactful projects**, **solving problems with code**, and **pushing the boundaries of technology**.  
+
+- 🌱 Currently deep-diving into **Cloud-based AI/ML, Algorithms & System Design**  
+- 💻 Obsessed with **Python, C, and Machine Learning**  
+- ⚡ Always learning, experimenting, and refining my craft  
+- 🎥 Dreamer at heart — aspiring **film writer & director**  
 
 ---
 
-## 📚 Certifications  
-- IBM Python for Data Science  
-- AutoCAD & Fusion 360 Certified  
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,aws,gcp,tensorflow,scikitlearn,mysql,linux,git,github,vscode,autocad,fusion360,catia&perline=7" />
+</p>
 
 ---
 
-## 🔧 Projects  
-- **Cloud-Based Credit Card Segmentation** (Python, BigQuery, Vertex AI)  
-- **Gear Spinner Simulation in CATIA**  
-- **PyMech** – A Mechanical Problem-Solving Tool (in development)  
+### 🚀 Featured Projects  
+
+- **Cloud-Based Credit Card Segmentation**  
+  *KMeans Clustering | BigQuery | Vertex AI*  
+- **PyMech**  
+  *Mechanical Problem-Solving Tool (Strength of Materials, Thermal Engineering, Fluid Mechanics)*  
+- **Gear Spinner Simulation (CATIA)**  
 - **Design and Thermal Analysis of Finned Auxiliary Engine Oil Cooler**  
 
----
-
-## 🏆 Achievements  
-- Completed internship at **BHEL (Visakhapatnam)** in industrial boiler and cryogenic tank design  
-- Achieved **96% in C Programming** on CodeTantra  
+> *I focus on writing clean, maintainable code and building tools that matter.*
 
 ---
 
-## 🌱 Currently Learning  
-- Advanced Machine Learning  
-- AWS and Cloud-based AI/ML  
-- Algorithms and Data Structures  
+### 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariserlaHemanthKumar&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariserlaHemanthKumar&theme=radical" alt="GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariserlaHemanthKumar&layout=compact&theme=radical" alt="Top Languages" width="40%">
+</p>
 
 ---
 
-## 📫 How to Reach Me  
-- 📧 Email: mariserlahemanthkumar@gmail.com  
-- 📱 Mobile: +91 7997207751  
-- 💼 [LinkedIn](https://linkedin.com/in/mariserla-hemanth-kumar) *(add your link)*  
+### 📫 Connect With Me  
+
+<p align="center">
+  <a href="mailto:mariserlahemanthkumar@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mariserla-hemanth-kumar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/MariserlaHemanthKumar"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
 ---
 
-⭐️ *“Striving to bridge the gap between Mechanical Engineering and AI/ML while building innovative solutions.”*  
+⭐️ **“Code. Create. Innovate.”**  
