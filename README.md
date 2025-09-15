@@ -77,4 +77,4 @@ Passionate about **software development**, **data-driven solutions**, and **buil
 
 ---
 
-⭐️ **“Code. Create. Innovate.”**  
+**“Code. Create. Innovate.”**  
